@@ -2,6 +2,8 @@
 This project is about recreating our own version of bash with limited functionality.
 A miniature shell :).
 
+Made in cooperation with the amazing aulicna (https://github.com/andreaulicna) at 42 Prague.
+
 ### Permitted functions and their description
 | Function        | Description                                                                 |
 |-----------------|-----------------------------------------------------------------------------|
